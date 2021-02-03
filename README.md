@@ -1,17 +1,21 @@
-# File Extension Mover_ver 1.0
----
+# File Extensions Mover 2.0
 
- ## 한 폴더에 파일들을 확장자 별로 구분하여 폴더를 생성하고 해당 폴더로 이동합니다
+##  Created by Demi 2021-01-22
+##  Update 2021-02-03
+***
 
+
+## version
+> ### Python Version --3.8.6
+***
+
+## install list
+> None
+
+## Script Process
 ---
- > ## 사용법
- >> ## 1. 원하는 폴더의 경로를 입력합니다 
- >>> ### ex) d:\file_mover
- >>> ### '/' 입력시 현재 실행파일이 있는 경로를 지정합니다  
- >> ### 2. 정리를 원하는 확장자를 입력합니다(공백으로 구분)
- >>> ### ex) txt exe jpg
- >>> ### '/' 입력시 모든 확장자를 정리합니다
- >> ### 3.정리할 파일의 리스트를 확인한 후 실행(Y) , 취소(N) 을 입력합니다
- >> ### 4.정리한 폴더의 'result_time.txt' 형식의 텍스트 파일이 생성됩니다
+## 1. Input your path
+## 2. Deciding whether to recurse a folder
+## 3. Check Choose an extensions
 
 
